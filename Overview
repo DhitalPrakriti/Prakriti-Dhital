@@ -1,0 +1,68 @@
+# Prakriti Dhital's Projects and Coursework
+
+## Overview
+Welcome to my GitHub repository! Here, I showcase the projects and coursework I've completed as part of my academic and personal development in Information Technology. These projects demonstrate my skills in web development, programming, database management, and software engineering.
+
+## Projects
+
+### 1. **Travel Booking System (ASP.NET MVC)**
+- **Description**: A web application built using ASP.NET MVC and SQL Server to manage travel bookings and destinations.
+- **Features**:
+  - User authentication and travel booking management
+  - Admin panel for CRUD operations on destinations and bookings
+  - Integration of email services and image upload functionality
+- **Technologies Used**:
+  - ASP.NET MVC
+  - SQL Server
+  - C#
+- **Setup**:
+  - Open `TravelBookingSystem.sln` in Visual Studio 2022.
+  - Set up SQL Server databases and configure connection strings in `appsettings.json`.
+  - Run the project by pressing `F5`.
+
+### 2. **Web Development Projects (HTML, CSS, JavaScript)**
+- **Description**: A collection of web applications and websites built with foundational web technologies to demonstrate my knowledge of front-end development.
+- **Technologies Used**:
+  - HTML5
+  - CSS3
+  - JavaScript
+- **Examples**:
+  - Interactive web pages using JavaScript for dynamic behavior.
+  - Responsive layouts and design with CSS.
+  - Projects involving form validation and DOM manipulation.
+
+### 3. **Java Programming Projects**
+- **Description**: Java-based projects showcasing my understanding of programming fundamentals, object-oriented programming (OOP), and algorithms.
+- **Technologies Used**:
+  - Java (basic OOP, data structures, algorithms)
+- **Examples**:
+  - **Character Classification Program**: Identifies if a character input is an uppercase letter, lowercase letter, number, or other.
+  - **Weighted Graph Shortest Path Algorithm**: Implements Dijkstra's algorithm to find the shortest path in a weighted graph.
+
+### 4. **ASP.NET C# Projects**
+- **Description**: C# projects developed in the ASP.NET framework to enhance my skills in back-end programming and web application development.
+- **Technologies Used**:
+  - ASP.NET
+  - C#
+- **Examples**:
+  - ASP.NET MVC-based applications with CRUD operations.
+  - Database integration and connection using SQL Server.
+  - Projects involving email functionality and image handling.
+
+## Coursework Highlights
+- **Information Technology Coursework**:
+  - Comprehensive training in web development using HTML, CSS, JavaScript, and ASP.NET.
+  - Understanding and practical implementation of data structures and algorithms in Java.
+  - Hands-on experience with databases using SQL Server, including creating tables, writing queries, and integrating databases with applications.
+
+## Future Enhancements
+- Integrate more payment gateways for booking payments in ASP.NET projects.
+- Add user role management (admin, user, etc.) in web applications.
+- Implement more advanced search filters for destinations and web content.
+
+## Contact
+Feel free to reach out for collaboration, questions, or feedback:
+
+**Email**: [dhitalprakriti5@gmail.com](mailto:dhitalprakriti5@gmail.com)
+
+**LinkedIn**: [Your LinkedIn Profile](#) (Coming soon)
